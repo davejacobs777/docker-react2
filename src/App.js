@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn How To Get Rid Of A Vamp (Shark faced ones being the most deadly!)
         </a>
       </header>
     </div>
